@@ -72,3 +72,7 @@ Streamlining our processes, new tools, tech, etc.
 #### Volunteer Coordination
 
 Coordinate volunteers, delegate tasks, work with events
+
+#### Mentorship Program
+
+Possible programming opportunity for later in 2016/2017 to work with Geekettes founder
